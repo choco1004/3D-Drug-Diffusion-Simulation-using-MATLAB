@@ -32,8 +32,5 @@ https://drive.mathworks.com/sharing/4bed6a32-9ec0-4a25-9ff8-3bef3acf135d/PK%20%E
 - Implements a pharmacokinetic drug concentration model.
 - Extends the model into tissue-depth-based 3D diffusion.
 
-- GitHub = 코드 저장소
-MATLAB Online = 실행/시연 링크
-Portfolio = GitHub + MATLAB + 영상 연결
 
 https://drive.mathworks.com/sharing/4bed6a32-9ec0-4a25-9ff8-3bef3acf135d/PK%20%EB%AA%A8%EB%8D%B8%20+%20%EC%8B%9C%EA%B0%81%ED%99%94.m
