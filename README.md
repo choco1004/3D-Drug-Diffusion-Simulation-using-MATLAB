@@ -3,7 +3,8 @@
 ## MATLAB Simulation
 
 ### 3D Drug Diffusion Simulation
-[Open MATLAB Simulation](MATLAB_LINK_HERE)
+https://drive.mathworks.com/sharing/4bed6a32-9ec0-4a25-9ff8-3bef3acf135d
+
 
 This MATLAB model simulates pharmacokinetic drug concentration decay over time and tissue-depth-based diffusion.
 
@@ -25,7 +26,7 @@ AI-Bio-Robotics-Portfolio/
 - Visualizes systolic blood pressure, glucose level, and cholesterol data.
 - Demonstrates biomedical data visualization for AI-driven healthcare analytics.
 
-[Open MATLAB Online](MATLAB_LINK_HERE)
+https://drive.mathworks.com/sharing/4bed6a32-9ec0-4a25-9ff8-3bef3acf135d/PK%20%EB%AA%A8%EB%8D%B8%20+%20%EC%8B%9C%EA%B0%81%ED%99%94.m
 
 ### Project 2: 3D Drug Diffusion Simulation
 - Implements a pharmacokinetic drug concentration model.
@@ -35,4 +36,4 @@ AI-Bio-Robotics-Portfolio/
 MATLAB Online = 실행/시연 링크
 Portfolio = GitHub + MATLAB + 영상 연결
 
-[Open MATLAB Online](MATLAB_LINK_HERE)
+https://drive.mathworks.com/sharing/4bed6a32-9ec0-4a25-9ff8-3bef3acf135d/PK%20%EB%AA%A8%EB%8D%B8%20+%20%EC%8B%9C%EA%B0%81%ED%99%94.m
